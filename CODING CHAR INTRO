@@ -1,0 +1,17 @@
+package exercise;
+
+public class charIntro {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		char[] cars = {'a' , 'b' , 'c'};
+		
+		for(char car : cars) {
+			System.out.println(car);
+			
+		}		
+		
+	}
+
+}
